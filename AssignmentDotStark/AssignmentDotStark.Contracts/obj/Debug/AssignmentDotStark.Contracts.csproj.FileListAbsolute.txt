@@ -1,0 +1,9 @@
+D:\Projects\AssignmentDotStark\AssignmentDotStark\AssignmentDotStark.Contracts\bin\Debug\AssignmentDotStark.Contracts.dll
+D:\Projects\AssignmentDotStark\AssignmentDotStark\AssignmentDotStark.Contracts\bin\Debug\AssignmentDotStark.Contracts.pdb
+D:\Projects\AssignmentDotStark\AssignmentDotStark\AssignmentDotStark.Contracts\bin\Debug\AssignmentDotStark.Models.dll
+D:\Projects\AssignmentDotStark\AssignmentDotStark\AssignmentDotStark.Contracts\bin\Debug\AssignmentDotStark.Models.pdb
+D:\Projects\AssignmentDotStark\AssignmentDotStark\AssignmentDotStark.Contracts\obj\Debug\AssignmentDotStark.Contracts.csproj.AssemblyReference.cache
+D:\Projects\AssignmentDotStark\AssignmentDotStark\AssignmentDotStark.Contracts\obj\Debug\AssignmentDotStark.Contracts.csproj.CoreCompileInputs.cache
+D:\Projects\AssignmentDotStark\AssignmentDotStark\AssignmentDotStark.Contracts\obj\Debug\AssignmentDotStark.Contracts.csproj.CopyComplete
+D:\Projects\AssignmentDotStark\AssignmentDotStark\AssignmentDotStark.Contracts\obj\Debug\AssignmentDotStark.Contracts.dll
+D:\Projects\AssignmentDotStark\AssignmentDotStark\AssignmentDotStark.Contracts\obj\Debug\AssignmentDotStark.Contracts.pdb

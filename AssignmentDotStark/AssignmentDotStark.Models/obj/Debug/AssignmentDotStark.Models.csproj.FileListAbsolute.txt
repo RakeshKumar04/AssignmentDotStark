@@ -1,0 +1,6 @@
+D:\Projects\AssignmentDotStark\AssignmentDotStark\AssignmentDotStark.Models\bin\Debug\AssignmentDotStark.Models.dll
+D:\Projects\AssignmentDotStark\AssignmentDotStark\AssignmentDotStark.Models\bin\Debug\AssignmentDotStark.Models.pdb
+D:\Projects\AssignmentDotStark\AssignmentDotStark\AssignmentDotStark.Models\obj\Debug\AssignmentDotStark.Models.csproj.AssemblyReference.cache
+D:\Projects\AssignmentDotStark\AssignmentDotStark\AssignmentDotStark.Models\obj\Debug\AssignmentDotStark.Models.csproj.CoreCompileInputs.cache
+D:\Projects\AssignmentDotStark\AssignmentDotStark\AssignmentDotStark.Models\obj\Debug\AssignmentDotStark.Models.dll
+D:\Projects\AssignmentDotStark\AssignmentDotStark\AssignmentDotStark.Models\obj\Debug\AssignmentDotStark.Models.pdb

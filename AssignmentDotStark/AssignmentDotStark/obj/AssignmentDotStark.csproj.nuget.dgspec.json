@@ -1,0 +1,188 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Projects\\AssignmentDotStark\\AssignmentDotStark\\AssignmentDotStark\\AssignmentDotStark.csproj": {}
+  },
+  "projects": {
+    "D:\\Projects\\AssignmentDotStark\\AssignmentDotStark\\AssignmentDotStark.Contracts\\AssignmentDotStark.Contracts.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\AssignmentDotStark\\AssignmentDotStark\\AssignmentDotStark.Contracts\\AssignmentDotStark.Contracts.csproj",
+        "projectName": "AssignmentDotStark.Contracts",
+        "projectPath": "D:\\Projects\\AssignmentDotStark\\AssignmentDotStark\\AssignmentDotStark.Contracts\\AssignmentDotStark.Contracts.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "D:\\Projects\\AssignmentDotStark\\AssignmentDotStark\\AssignmentDotStark.Models\\AssignmentDotStark.Models.csproj": {
+                "projectPath": "D:\\Projects\\AssignmentDotStark\\AssignmentDotStark\\AssignmentDotStark.Models\\AssignmentDotStark.Models.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "D:\\Projects\\AssignmentDotStark\\AssignmentDotStark\\AssignmentDotStark.Domain\\AssignmentDotStark.Domain.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\AssignmentDotStark\\AssignmentDotStark\\AssignmentDotStark.Domain\\AssignmentDotStark.Domain.csproj",
+        "projectName": "AssignmentDotStark.Domain",
+        "projectPath": "D:\\Projects\\AssignmentDotStark\\AssignmentDotStark\\AssignmentDotStark.Domain\\AssignmentDotStark.Domain.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "D:\\Projects\\AssignmentDotStark\\AssignmentDotStark\\AssignmentDotStark.Infrastructure\\AssignmentDotStark.Infrastructure.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\AssignmentDotStark\\AssignmentDotStark\\AssignmentDotStark.Infrastructure\\AssignmentDotStark.Infrastructure.csproj",
+        "projectName": "AssignmentDotStark.Infrastructure",
+        "projectPath": "D:\\Projects\\AssignmentDotStark\\AssignmentDotStark\\AssignmentDotStark.Infrastructure\\AssignmentDotStark.Infrastructure.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "D:\\Projects\\AssignmentDotStark\\AssignmentDotStark\\AssignmentDotStark.Domain\\AssignmentDotStark.Domain.csproj": {
+                "projectPath": "D:\\Projects\\AssignmentDotStark\\AssignmentDotStark\\AssignmentDotStark.Domain\\AssignmentDotStark.Domain.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "D:\\Projects\\AssignmentDotStark\\AssignmentDotStark\\AssignmentDotStark.Models\\AssignmentDotStark.Models.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\AssignmentDotStark\\AssignmentDotStark\\AssignmentDotStark.Models\\AssignmentDotStark.Models.csproj",
+        "projectName": "AssignmentDotStark.Models",
+        "projectPath": "D:\\Projects\\AssignmentDotStark\\AssignmentDotStark\\AssignmentDotStark.Models\\AssignmentDotStark.Models.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "D:\\Projects\\AssignmentDotStark\\AssignmentDotStark\\AssignmentDotStark.Services\\AssignmentDotStark.Services.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\AssignmentDotStark\\AssignmentDotStark\\AssignmentDotStark.Services\\AssignmentDotStark.Services.csproj",
+        "projectName": "AssignmentDotStark.Services",
+        "projectPath": "D:\\Projects\\AssignmentDotStark\\AssignmentDotStark\\AssignmentDotStark.Services\\AssignmentDotStark.Services.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "D:\\Projects\\AssignmentDotStark\\AssignmentDotStark\\AssignmentDotStark.Contracts\\AssignmentDotStark.Contracts.csproj": {
+                "projectPath": "D:\\Projects\\AssignmentDotStark\\AssignmentDotStark\\AssignmentDotStark.Contracts\\AssignmentDotStark.Contracts.csproj"
+              },
+              "D:\\Projects\\AssignmentDotStark\\AssignmentDotStark\\AssignmentDotStark.Domain\\AssignmentDotStark.Domain.csproj": {
+                "projectPath": "D:\\Projects\\AssignmentDotStark\\AssignmentDotStark\\AssignmentDotStark.Domain\\AssignmentDotStark.Domain.csproj"
+              },
+              "D:\\Projects\\AssignmentDotStark\\AssignmentDotStark\\AssignmentDotStark.Infrastructure\\AssignmentDotStark.Infrastructure.csproj": {
+                "projectPath": "D:\\Projects\\AssignmentDotStark\\AssignmentDotStark\\AssignmentDotStark.Infrastructure\\AssignmentDotStark.Infrastructure.csproj"
+              },
+              "D:\\Projects\\AssignmentDotStark\\AssignmentDotStark\\AssignmentDotStark.Models\\AssignmentDotStark.Models.csproj": {
+                "projectPath": "D:\\Projects\\AssignmentDotStark\\AssignmentDotStark\\AssignmentDotStark.Models\\AssignmentDotStark.Models.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "D:\\Projects\\AssignmentDotStark\\AssignmentDotStark\\AssignmentDotStark\\AssignmentDotStark.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\AssignmentDotStark\\AssignmentDotStark\\AssignmentDotStark\\AssignmentDotStark.csproj",
+        "projectName": "AssignmentDotStark",
+        "projectPath": "D:\\Projects\\AssignmentDotStark\\AssignmentDotStark\\AssignmentDotStark\\AssignmentDotStark.csproj",
+        "packagesPath": "C:\\Users\\ARYANAVI\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\AssignmentDotStark\\AssignmentDotStark\\AssignmentDotStark\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ARYANAVI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/umbracoprereleases/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Projects\\AssignmentDotStark\\AssignmentDotStark\\AssignmentDotStark.Contracts\\AssignmentDotStark.Contracts.csproj": {
+                "projectPath": "D:\\Projects\\AssignmentDotStark\\AssignmentDotStark\\AssignmentDotStark.Contracts\\AssignmentDotStark.Contracts.csproj"
+              },
+              "D:\\Projects\\AssignmentDotStark\\AssignmentDotStark\\AssignmentDotStark.Infrastructure\\AssignmentDotStark.Infrastructure.csproj": {
+                "projectPath": "D:\\Projects\\AssignmentDotStark\\AssignmentDotStark\\AssignmentDotStark.Infrastructure\\AssignmentDotStark.Infrastructure.csproj"
+              },
+              "D:\\Projects\\AssignmentDotStark\\AssignmentDotStark\\AssignmentDotStark.Models\\AssignmentDotStark.Models.csproj": {
+                "projectPath": "D:\\Projects\\AssignmentDotStark\\AssignmentDotStark\\AssignmentDotStark.Models\\AssignmentDotStark.Models.csproj"
+              },
+              "D:\\Projects\\AssignmentDotStark\\AssignmentDotStark\\AssignmentDotStark.Services\\AssignmentDotStark.Services.csproj": {
+                "projectPath": "D:\\Projects\\AssignmentDotStark\\AssignmentDotStark\\AssignmentDotStark.Services\\AssignmentDotStark.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.20, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
